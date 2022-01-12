@@ -1,4 +1,4 @@
-# infodemics1
+# Infodemics study
 This is repository for data and code of the manuscript "Using ‘infodemics’ to understand public awareness and perception of SARS-CoV-2: an analysis of online information about COVID-19 incidence and mortality during a major outbreak in Vietnam, July - September 2020"
 
 Authors: Ha-Linh Quach, Thai Quang Pham, Ngoc-Anh Hoang, Dinh Cong Phung, Viet-Cuong Nguyen, Son Hong Le, Thanh Cong Le, Thu Minh Thi Bui, Dang Hai Le, Anh Duc Dang, Duong Nhu Tran, Nghia Duy Ngu, Florian Vogt, Cong-Khanh Nguyen
