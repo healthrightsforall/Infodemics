@@ -3,6 +3,10 @@ This is repository for data and code of the manuscript "Using ‘infodemics’ t
 
 Authors: Ha-Linh Quach, Thai Quang Pham, Ngoc-Anh Hoang, Dinh Cong Phung, Viet-Cuong Nguyen, Son Hong Le, Thanh Cong Le, Thu Minh Thi Bui, Dang Hai Le, Anh Duc Dang, Duong Nhu Tran, Nghia Duy Ngu, Florian Vogt, Cong-Khanh Nguyen
 
+Published: April 7 2022
+
+Link: https://doi.org/10.1371/journal.pone.0266299
+
 **Data collection:**
 
 Inclusion criteria for online content were: (i) related to COVID-19 incidence or mortalities (identified through pre-defined keywords in Table S1); (ii) posts were published in ‘public mode’ and remained in the public domain at the time of data collection; (iii) posts were made and posted in the format of posts on social media networks, entries on online forums, and online newspaper contributions; (iv) the geographical area from where the posts were uploaded is Vietnam. Exclusion criteria were: (i) being unrelated to the study topic (i.e. not containing pre-defined keywords in Table S1); (ii) not being in the public domain at time of collection; and (iii) not generated in Vietnam geographically.
